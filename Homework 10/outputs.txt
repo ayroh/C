@@ -1,0 +1,6 @@
+Distance(P1,P2) = 100.0
+Distance(P1,P3) = 141.4
+Angle(L12s\Pat“™L:ÿ,L232\binw˜L:ÿ) = 90.0
+Angle(L12s\Pat“™L:ÿ,L34%;%Syw˜L:ÿ) = 0.0
+Perimeter(PG1ws;C:) = 400.0
+Area(PG1ws;C:) = 10000.0
