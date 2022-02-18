@@ -1,5 +1,4 @@
-# C
-My C Projects for CSE102 Lecture
+# My C Projects for CSE102 Lecture
 
 &emsp;&emsp;PROJECT 1
   
