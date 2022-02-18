@@ -3,8 +3,8 @@ My C Projects for CSE102 Lecture
 
 /////////PROJECT 1
 
-1901042643.c => 1.Finds roots of quadratic equation if equation has real roots according to inputs.
-                2.Finds newtonian root according to inputs. 
+1901042643.c => 1.Finds roots of quadratic equation if equation has real roots according to inputs.\n
+                2.Finds newtonian root according to inputs.\n
                 3.Finds the closest multiple of the second number to the first number.
 
 
